@@ -15,9 +15,9 @@ Coding($sleepy);
 
   <img 
     align="right"
-    src="https://github.com/user-attachments/assets/983a8792-f228-46f6-96ea-81c3dd5cb784" 
+    src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
     alt="sleepy-ryo" 
-    style="width: 500px; height: auto;" 
+    style="width: 163px; height: auto;" 
   />
 
 <h3 align="left">My Tech Stack:</h3>
