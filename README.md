@@ -38,4 +38,14 @@ Coding($sleepy);
 </div>
 
 
+
+##
+<div align="left">
+<br/>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rivenfino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
 ##
