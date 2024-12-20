@@ -33,7 +33,7 @@ Coding($sleepy);
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivenfino&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="rivenfino" /></p>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivenfino&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="rivenfino" /></a>
 
 </div>
 
@@ -43,7 +43,7 @@ Coding($sleepy);
 <div align="left">
 <h3>Last 7 days of coding:</h3>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rivenfino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rivenfino&layout=compact)](https://wakatime.com/@rivenfino)
 
 
 </div>
