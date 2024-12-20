@@ -41,7 +41,7 @@ Coding($sleepy);
 
 ##
 <div align="left">
-<br/>
+<h3>Last 7 days of coding</h3>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rivenfino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
