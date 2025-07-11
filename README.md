@@ -29,7 +29,7 @@
 
 ##
 <div align="left">
-<h3>Last 7 days of coding:</h3>
+<h3>Coding History:</h3>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awlternative&layout=compact)](https://wakatime.com/@awlternative)
 
