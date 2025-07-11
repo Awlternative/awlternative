@@ -1,11 +1,3 @@
-
-```php
-
-Coding($sleepy);
-
-```
-
-
 #
 
 <div style="display: flex; justify-content: start; align-items: center;">
@@ -13,9 +5,9 @@ Coding($sleepy);
 <a href="https://www.youtube.com/embed/pZuv1yRz0Ek?autoplay=1&start=74&end=78&modestbranding=1&showinfo=0&mute=0&fs=0&controls=0&disablekb=1&cc_load_policy=1&iv_load_policy=3&playsinline=1&color=white">
   <img 
     align="right"
-    src="https://github.com/user-attachments/assets/e43e5661-f045-41c8-970c-af7583ab018a" 
-    alt="sleepy-ryo" 
-    style="width: 163px; height: auto;" 
+    src="https://github.com/user-attachments/assets/bb16474f-8e1c-4161-a781-2ee7c2dc3853" 
+    alt="blue" 
+    style="width: 200px; height: auto;" 
   />
 </a>
 
@@ -39,7 +31,7 @@ Coding($sleepy);
 <div align="left">
 <h3>Last 7 days of coding:</h3>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rivenfino&layout=compact)](https://wakatime.com/@rivenfino)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awlternative&layout=compact)](https://wakatime.com/@awlternative)
 
 
 </div>
