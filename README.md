@@ -1,6 +1,3 @@
-<h1 align="center">Let's Code!</h1> 
-<br/>
-
 
 ```php
 
@@ -23,7 +20,6 @@ Coding($sleepy);
 </a>
 
 
-<h3 align="left">My Tech Stack:</h3>
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
@@ -33,7 +29,7 @@ Coding($sleepy);
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/> </a>
 </p>
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivenfino&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="rivenfino" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awlternative&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="awlternative" /></a>
 
 </div>
 
