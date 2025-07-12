@@ -5,12 +5,11 @@
 <a href="https://www.youtube.com/embed/pZuv1yRz0Ek?autoplay=1&start=74&end=78&modestbranding=1&showinfo=0&mute=0&fs=0&controls=0&disablekb=1&cc_load_policy=1&iv_load_policy=3&playsinline=1&color=white" target="_blank" rel="noopener noreferrer">
   <img 
     align="right"
-    src="https://github.com/user-attachments/assets/bb16474f-8e1c-4161-a781-2ee7c2dc3853" 
+    src="https://github.com/user-attachments/assets/85e898ef-21c2-43d9-9659-794da64ece0e" 
     alt="blue" 
     style="width: 200px; height: auto;" 
   />
 </a>
-
 
 <p align="left"> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> 
