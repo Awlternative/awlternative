@@ -19,7 +19,6 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="50" height="50"/> </a>
 </p>
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awlternative&hide_progress=true&show_icons=true&locale=en&layout=compact" alt="awlternative" /></a>
 
 </div>
 
