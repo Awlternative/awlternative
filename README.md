@@ -71,7 +71,7 @@
   </a>
   <img width="12" />
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo" />
   </a>
   <img width="12" />
   <a href="https://getbootstrap.com/" target="_blank">
@@ -90,7 +90,7 @@
 
 
 ##
-<div align="left">
+<div align="center">
 <h3>Coding History:</h3>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awlternative&layout=compact)](https://wakatime.com/@awlternative)
