@@ -3,7 +3,7 @@
   <img 
     src="https://github.com/user-attachments/assets/ce330ad2-ace4-475d-b3b2-5aea28fca7cb" 
     alt="Yorushika - Hitchcock Video Music" 
-    style="width: 765px; height: auto;" 
+    style="width: 745px; height: auto;" 
   />
 </a>
 </div>
@@ -38,16 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="c logo" />
   </a>
   <img width="20" />
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55" alt="dart logo" />
-  </a>
-  <img width="20" />
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="php logo" />
-  </a>
-  <img width="20" />
-  <a href="https://www.java.com/en/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
   </a>
 </div>
 
@@ -95,6 +87,7 @@
 
 
 
+
 </div>
 
 
@@ -110,3 +103,5 @@
 ##
 
 
+
+<h4><i>Without real progress, these mean nothing.</i></h4>
