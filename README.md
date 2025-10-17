@@ -46,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="php logo" />
   </a>
   <img width="20" />
-  <a href="https://www.php.net/" target="_blank">
+  <a href="https://www.java.com/en/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
   </a>
 </div>
