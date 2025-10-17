@@ -1,10 +1,12 @@
+<div align="center">
 <a href="https://www.youtube.com/watch?v=t7MBzMP4OzY" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/user-attachments/assets/ce330ad2-ace4-475d-b3b2-5aea28fca7cb" 
-    alt="blue" 
-    style="width: 1000px; height: auto;" 
+    alt="Yorushika - Hitchcock Video Music" 
+    style="width: 765px; height: auto;" 
   />
 </a>
+</div>
 
 #
 
@@ -19,7 +21,7 @@
   />
 </a> -->
 
-<div align="center">
+<div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo" />
   </a>
@@ -43,13 +45,17 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="php logo" />
   </a>
+  <img width="20" />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="right">
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   </a>
@@ -74,12 +80,16 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo" />
   </a>
   <img width="12" />
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   </a>
   <img width="12" />
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  </a>
+  <img width="12" />
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
   </a>
 </div>
 
@@ -90,8 +100,7 @@
 
 
 ##
-<div align="center">
-<h3>Coding History:</h3>
+<div align="center" >
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awlternative&layout=compact)](https://wakatime.com/@awlternative)
 
